@@ -1,0 +1,1 @@
+pyuic6 -o valheim_gui.py valheim_gui.ui
